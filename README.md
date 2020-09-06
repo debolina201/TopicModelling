@@ -1,5 +1,6 @@
 # Topic Modelling
 
-This work demonstrates the identification of topics from a collection of texts from Wikipedia articles based on term frequencies. Two simple methods: bag-of-words and TF-IDF have been used.
+This work demonstrates the identification of topics from a collection of Wikipedia articles that form our corpus.
+Two simple methods based on term frequencies have been used: Bag-of-Words and TF-IDF.
 
 Libraries used: NLTK and Gensim
